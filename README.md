@@ -41,7 +41,7 @@ If you wish to refer to the content published here, please use the following Bib
 @article{gudavalli2021seetheseams,
   title={SeeTheSeams: Localized Detection of Seam Carving based Image Forgery in Satellite Imagery},
   author={Gudavalli, Chandrakanth and Rosten, Erik and Nataraj, Lakshmanan and Chandrasekaran, Shivkumar and Manjunath, BS},
-  journal={arXiv preprint arXiv:2108.12534},
+  journal={2017 IEEE conference on computer vision and pattern recognition workshops (CVPRW) on Media Forensics},
   year={2021}
 }
 ```
