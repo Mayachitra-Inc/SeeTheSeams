@@ -53,7 +53,7 @@ If you wish to refer to the content published here, please use the following Bib
 Please feel free to also check out our other related published works:
 
 - [Seam Carving Detection and Localization using Two-Stage Deep Neural Networks (2021)](https://link.springer.com/chapter/10.1007/978-981-16-0289-4_29)
-- [Holistic Image Manipulation Detection using Pixel Co-occurrence Matrices (2021)](https://arxiv.org/abs/1903.06836)
+- [Holistic Image Manipulation Detection using Pixel Co-occurrence Matrices (2021)](https://arxiv.org/abs/2104.05693)
 - [Detecting GAN generated Fake Images using Co-occurrence Matrices (2019)](https://arxiv.org/abs/1903.06836)
 - [Hybrid LSTM and Encoder-Decoder Architecture for Detection of Image Forgeries (2019)](https://arxiv.org/abs/1903.02495)
 - [Deep Learning Methods for Event Verification and Image Repurposing Detection (2019)](https://arxiv.org/abs/1902.04038)
