@@ -17,19 +17,19 @@ We propose a two stage, deep learning based seam carving detector with two key a
 
 ![Block Diagram of Detection Framework](data/block_diagram.png "Block Diagram of Detection Framework")
 
-## Datasets
+## Dataset
 
 ```diff
-+ IMAGES CAN BE REQUESTED FOR DOWNLOAD
-- CODE FOR DATA CURATION AND TRAINING PIPELINE IS NOT MADE AVAILABLE AT THIS TIME
++ DATASET CAN BE REQUESTED FOR DOWNLOAD
+- CODE IS NOT MADE AVAILABLE AT THIS TIME
 ```
 
 ### Download Policy
 
 We are not responsible, or liable to you or any third party, for the content or accuracy of any materials provided by us. The release of data is conditioned on accepting the following terms to avoid the dataset being misused.
 
-- If you are a student (or postdoc) in academia, please ask your advisor (or host) to fill out the [form](https://mayachitra.com/#contact-us) with subject that starts with [Seam Carving Dataset Request]. If you are a faculty member, please provide university's email account in the form. In your message, please include your name, affiliation, and homepage. The information is needed for verification purpose.
-- If you are in research (industrial) labs, please fill out the [form](https://mayachitra.com/#contact-us) by providing your company's email account with subject that starts with [Seam Carving Dataset Request]. In the message, please briefly introduce yourself (e.g., name and title) and your company. In the form, please attach a justification letter (in PDF format) in official letterhead. The justification letter needs to acknowledge the "MaleX Malware Dataset" from Mayachitra, Inc. and state clearly the reasons why the dataset is being requested.
+- If you are a student (or postdoc) in academia, please ask your advisor (or host) to fill out the [form](https://mayachitra.com/#contact-us) with subject that starts with [SeeTheSeams Dataset Request]. If you are a faculty member, please provide university's email account in the form. In your message, please include your name, affiliation, and homepage. The information is needed for verification purpose.
+- If you are in research (industrial) labs, please fill out the [form](https://mayachitra.com/#contact-us) by providing your company's email account with subject that starts with [SeeTheSeams Dataset Request]. In the message, please briefly introduce yourself (e.g., name and title) and your company. In the form, please attach a justification letter (in PDF format) in official letterhead. Please state clearly the reasons why the dataset is being requested, in the justification letter.
 
 Please note that, your request will be ignored if you are unable to follow these conditions. Also, while filling out the form, please make sure that the **message's character length is between 20 and 1000**, and/or the **PDF attachment is less than 2MB**.
 
@@ -38,11 +38,13 @@ Please note that, your request will be ignored if you are unable to follow these
 If you wish to refer to the content published here, please use the following BibTeX entry to cite our [paper](https://arxiv.org/abs/2108.12534):
 
 ```bibtex
-@article{gudavalli2021seetheseams,
-  title={SeeTheSeams: Localized Detection of Seam Carving based Image Forgery in Satellite Imagery},
-  author={Gudavalli, Chandrakanth and Rosten, Erik and Nataraj, Lakshmanan and Chandrasekaran, Shivkumar and Manjunath, BS},
-  journal={2017 IEEE conference on computer vision and pattern recognition workshops (CVPRW) on Media Forensics},
-  year={2021}
+@InProceedings{Gudavalli_2022_CVPR,
+    author    = {Gudavalli, Chandrakanth and Rosten, Erik and Nataraj, Lakshmanan and Chandrasekaran, Shivkumar and Manjunath, B. S.},
+    title     = {SeeTheSeams: Localized Detection of Seam Carving Based Image Forgery in Satellite Imagery},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+    month     = {June},
+    year      = {2022},
+    pages     = {1-11}
 }
 ```
 
@@ -50,11 +52,11 @@ If you wish to refer to the content published here, please use the following Bib
 
 Please feel free to also check out our other related published works:
 
-- [Seam Carving Detection and Localization using Two-Stage Deep Neural Networks](https://arxiv.org/abs/2109.01764)
-- [Holistic Image Manipulation Detection using Pixel Co-occurrence Matrices](https://arxiv.org/abs/2007.10466)
-- [Detecting GAN generated Fake Images using Co-occurrence Matrices](https://arxiv.org/abs/1903.06836)
-- [Hybrid LSTM and Encoder-Decoder Architecture for Detection of Image Forgeries](https://arxiv.org/abs/1903.02495)
-- [Deep Learning Methods for Event Verification and Image Repurposing Detection](https://arxiv.org/abs/1902.04038)
+- [Seam Carving Detection and Localization using Two-Stage Deep Neural Networks (2021)](https://link.springer.com/chapter/10.1007/978-981-16-0289-4_29)
+- [Holistic Image Manipulation Detection using Pixel Co-occurrence Matrices (2021)](https://arxiv.org/abs/1903.06836)
+- [Detecting GAN generated Fake Images using Co-occurrence Matrices (2019)](https://arxiv.org/abs/1903.06836)
+- [Hybrid LSTM and Encoder-Decoder Architecture for Detection of Image Forgeries (2019)](https://arxiv.org/abs/1903.02495)
+- [Deep Learning Methods for Event Verification and Image Repurposing Detection (2019)](https://arxiv.org/abs/1902.04038)
 
 
 ## Contact Us
